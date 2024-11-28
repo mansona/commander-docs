@@ -1,0 +1,7 @@
+.editorconfig
+.github/
+.prettierrc.js
+.release-plan.json
+RELEASE.md
+eslint.config.js
+tests/
