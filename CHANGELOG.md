@@ -2,6 +2,17 @@
 
 ## Release (2024-11-28)
 
+commander-docs 1.0.1 (patch)
+
+#### :house: Internal
+* `commander-docs`
+  * [#4](https://github.com/mansona/commander-docs/pull/4) add some items to the npm ignore file ([@mansona](https://github.com/mansona))
+
+#### Committers: 1
+- Chris Manson ([@mansona](https://github.com/mansona))
+
+## Release (2024-11-28)
+
 commander-docs 1.0.0 (major)
 
 #### :boom: Breaking Change
